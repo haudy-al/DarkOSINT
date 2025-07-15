@@ -13,10 +13,10 @@ env/
 
 # Database files
 *.db
-data/*.db
+# data/*.db
 
 # Config files
-config/settings.yaml
+# config/settings.yaml
 
 # System files
 .DS_Store
