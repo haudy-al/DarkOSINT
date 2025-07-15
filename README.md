@@ -22,7 +22,7 @@ Supports:
 
 
 ## ✨ Features
-- 🔍 Scan **surface web** and **dark web** targets  
+- 🔍 Scan **surface web** targets  
 - 🧩 Extract sensitive data using **customizable regex**  
 - 📂 Save findings to **local database** (`SQLite`)  
 - 🔔 Send alerts to **Telegram bot** (optional toggle ON/OFF)  
@@ -106,15 +106,6 @@ Created by haudy-al
 [✓] Saved to database
 [✓] Telegram alert sent!
 ```
-
----
-
-## ✅ Roadmap
-- [x] Add custom regex  
-- [x] Add Telegram alert toggle  
-- [ ] Add Discord webhook alert  
-- [ ] Multi-threaded scanning  
-- [ ] Export results to CSV/JSON  
 
 ---
 
