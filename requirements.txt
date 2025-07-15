@@ -1,0 +1,3 @@
+requests[socks]
+beautifulsoup4
+PyYAML
