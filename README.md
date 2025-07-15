@@ -120,7 +120,7 @@ Created by haudy-al
 
 ## 🧑‍💻 Author
 **Created by:** Haudy  
-📧 Contact: [Telegram](https://t.me/yourusername)
+📧 Contact: [Email](muhamadhaudy25@gmail.com)
 
 ---
 
