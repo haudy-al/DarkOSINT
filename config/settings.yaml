@@ -1,0 +1,18 @@
+tor:
+  socks5: 'socks5h://127.0.0.1:9050'
+
+targets:
+   - "https://test.com"
+ 
+regex:
+  email: '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
+  phone: '\+?\d[\d\-\s]{8,}'
+  ip: '\b(?:\d{1,3}\.){3}\d{1,3}\b'
+  bitcoin: 'bc1[a-zA-Z0-9]{25,39}|[13][a-km-zA-HJ-NP-Z1-9]{25,34}'
+  # custom_keyword: 'Hallo'
+
+
+alert:
+  enable_alert: false 
+  telegram_token: 'YOUR_TELEGRAM_BOT_TOKEN'
+  telegram_chat_id: 'YOUR_CHAT_ID'
